@@ -1,0 +1,51 @@
+
+#top-text{
+    margin-bottom: 25px;
+}
+
+.page_bg_div{
+    background-color: burlywood;
+    border: 3px;
+    justify-content: center;
+    align-items: center;
+}
+.main_div{
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+}
+.first_receipt, .second_receipt, .third_receipt{
+    display: inline;
+    box-sizing: border-box;
+    width: 400px;
+    border: 5px solid black;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    margin: 25px;
+    
+}
+body{
+    background-color: burlywood;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 94, 0);
+    font-size: 46px;
+    margin-bottom: 25px;
+}
+
+img{
+    width: 350px;
+}
+
+p{
+    text-align: center;
+}
+
+a{
+    font-size: 24px;
+    text-decoration: none;
+    color: rgb(173, 76, 7);
+}
