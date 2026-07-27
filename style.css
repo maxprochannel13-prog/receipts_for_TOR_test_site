@@ -18,7 +18,7 @@
 .first_receipt, .second_receipt, .third_receipt{
     display: inline;
     box-sizing: border-box;
-    width: 400px;
+    width: 450px;
     border: 5px solid black;
     justify-content: center;
     align-items: center;
@@ -40,7 +40,7 @@ img{
     width: 350px;
 }
 
-p{
+#description{
     text-align: center;
 }
 
@@ -48,4 +48,8 @@ a{
     font-size: 24px;
     text-decoration: none;
     color: rgb(173, 76, 7);
+}
+
+#corn_img{
+    height: 265px;
 }
