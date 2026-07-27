@@ -43,7 +43,9 @@ img{
 #description{
     text-align: center;
 }
-
+p{
+    text-align: center;
+}
 a{
     font-size: 24px;
     text-decoration: none;
